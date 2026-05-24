@@ -95,7 +95,7 @@ The bot is optimized for high-speed inline responses using:
 ## 🔒 Privacy
 
 Privacy Policy:
-👉 https://docs.kakifilem.com/privacy
+👉 https://imdb.kakifilem.com/privacy
 
 ---
 
