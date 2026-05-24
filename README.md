@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/kakifilem-imdb-bot/main/assets/logo.png" width="120" alt="KakiFilem IMDb Bot Logo">
+  <img src="https://raw.githubusercontent.com/BigDaddyAman/KakiFilem-IMDb-Telegram-Bot/main/assets/logo.png" width="120" alt="KakiFilem IMDb Bot Logo">
 </p>
 
 <h1 align="center">🎬 KakiFilem IMDb Bot</h1>
