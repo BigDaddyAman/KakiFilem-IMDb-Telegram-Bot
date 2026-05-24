@@ -53,15 +53,6 @@ Use the bot directly inside any Telegram chat:
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="assets/screenshot-1.jpg" width="280">
-  <img src="assets/screenshot-2.jpg" width="280">
-</p>
-
----
-
 ## 🏗 Architecture
 
 ```text
